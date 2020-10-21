@@ -1,0 +1,8 @@
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Business\bin\Debug\netcoreapp3.1\ExameImport.Business.deps.json
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Business\bin\Debug\netcoreapp3.1\ExameImport.Business.dll
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Business\bin\Debug\netcoreapp3.1\ExameImport.Business.pdb
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Business\obj\Debug\netcoreapp3.1\ExameImport.Business.AssemblyInfoInputs.cache
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Business\obj\Debug\netcoreapp3.1\ExameImport.Business.AssemblyInfo.cs
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Business\obj\Debug\netcoreapp3.1\ExameImport.Business.csproj.CoreCompileInputs.cache
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Business\obj\Debug\netcoreapp3.1\ExameImport.Business.dll
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Business\obj\Debug\netcoreapp3.1\ExameImport.Business.pdb

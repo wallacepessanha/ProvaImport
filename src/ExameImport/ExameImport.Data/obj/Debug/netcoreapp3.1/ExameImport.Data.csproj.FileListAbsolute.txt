@@ -1,0 +1,15 @@
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Data\bin\Debug\netcoreapp3.1\ExameImport.Data.deps.json
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Data\bin\Debug\netcoreapp3.1\ExameImport.Data.dll
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Data\obj\Debug\netcoreapp3.1\ExameImport.Data.AssemblyInfoInputs.cache
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Data\obj\Debug\netcoreapp3.1\ExameImport.Data.AssemblyInfo.cs
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Data\bin\Debug\netcoreapp3.1\ExameImport.Business.dll
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Data\bin\Debug\netcoreapp3.1\ExameImport.Business.pdb
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Data\obj\Debug\netcoreapp3.1\ExameImport.Data.csprojAssemblyReference.cache
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Data\obj\Debug\netcoreapp3.1\ExameImport.Data.csproj.CopyComplete
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Data\bin\Debug\netcoreapp3.1\ExameImport.Data.runtimeconfig.json
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Data\bin\Debug\netcoreapp3.1\ExameImport.Data.runtimeconfig.dev.json
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Data\bin\Debug\netcoreapp3.1\ExameImport.Data.pdb
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Data\obj\Debug\netcoreapp3.1\ExameImport.Data.dll
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Data\obj\Debug\netcoreapp3.1\ExameImport.Data.pdb
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Data\obj\Debug\netcoreapp3.1\ExameImport.Data.genruntimeconfig.cache
+D:\Projeto\ProvaImport\src\ExameImport\ExameImport.Data\obj\Debug\netcoreapp3.1\ExameImport.Data.csproj.CoreCompileInputs.cache

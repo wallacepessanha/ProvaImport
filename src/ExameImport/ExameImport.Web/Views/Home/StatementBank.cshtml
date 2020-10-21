@@ -1,0 +1,57 @@
+﻿@model IEnumerable<ExameImport.Web.ViewModels.StatementViewModel>
+@{
+    ViewData["Title"] = "Statement Bank";
+}
+
+<h1>@ViewData["Title"]</h1>
+<div class="container">
+    
+    <div class="row">        
+
+        @if (Model != null && Model.Count() > 0)
+        {
+            <table class="table table-hover">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Action)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Amount)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Data)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Description)
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead >
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr @(new { @Class= (item.Action == "DEBIT")? "badge-danger":"badge-success"  })>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Action)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Amount)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Data)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Description)
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p>Could not get any result</p>
+        }
+    </div>
+</div>
